@@ -1,0 +1,7 @@
+body { background: #f6f8fc; color: #19263c; }
+main.container { max-width: 1024px; }
+#wave-scroll { background: white; }
+#wave { display: block; height: 176px; cursor: crosshair; }
+#dialog { min-height: 180px; max-height: 54vh; overflow: auto; background: white; }
+#dialog p { white-space: pre-wrap; overflow-wrap: anywhere; }
+td, #metrics, #timing { font-variant-numeric: tabular-nums; }
